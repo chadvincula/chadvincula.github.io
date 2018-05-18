@@ -1,0 +1,85 @@
+html
+{
+    /*background-image: url(../Images/Advincula_Web_Layout_Background.jpg)*/
+}
+
+header
+{
+    text-align: center;
+    height: 170px;
+    border-bottom: 5px solid #555;
+}
+
+body
+{
+    /*background-color: dimgrey;*/
+    background-image: url(../Images/Advincula_Web_Layout_Background.jpg);
+    background-attachment: fixed;
+}
+
+h1
+{
+    color: #fff;
+    font-family: 'Hind', sans-serif;
+    text-align: center;
+    background-color: #555;
+}
+
+div
+{
+    width: 1050px;
+    margin: auto;
+    /*background-color: #000;*/
+    background-image: url(../Images/Advincula_Web_Layout_Background.jpg);
+    background-attachment: fixed;
+}
+
+img
+{
+    margin: 8px;
+    border: 3px solid #555;
+}
+
+video
+{
+    
+    margin: 8px;
+    border: 3px solid #555;
+}
+
+p
+{
+    color: #fff;
+    font-family: 'Abel', sans-serif;
+    text-align: center;
+    width: 1000px;
+    margin: auto;
+}
+
+pre
+{
+    color: #fff;
+    font-family: 'Abel', sans-serif;
+    text-align: center;
+    width: 1000px;
+    margin: auto;
+}
+
+a
+{
+    text-decoration: none;
+    color: #fff;
+}
+
+a:hover
+{
+    text-decoration: none;
+    color: red;
+}
+
+footer
+{
+    color: #fff;
+    font-family: 'Abel', sans-serif;
+    border-top: 5px solid #555;
+}
